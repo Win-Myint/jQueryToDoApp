@@ -22,6 +22,6 @@ $("input[type = 'text']").keypress(function(event) {
 		$('input').val('');
 
 		// Add newToDo at the end of li
-		$('ul').append('<li><span>X</span> ' + newToDo + '</li>')
+		$('ul').append('<li><span><i class="fa fa-trash-o"></i></span> ' + newToDo + '</li>')
 	}
 })
