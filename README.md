@@ -14,4 +14,4 @@
 * uiGradients.com
 
 # Project intro
-A simple ToDo List applicaiton that allow users to dynamically insert/delete/strike-through their todo list!
+A simple ToDo List application that allow users to dynamically insert/delete/strike-through their todo list!
