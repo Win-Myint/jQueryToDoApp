@@ -25,3 +25,8 @@ $("input[type = 'text']").keypress(function(event) {
 		$('ul').append('<li><span><i class="fa fa-trash-o"></i></span> ' + newToDo + '</li>')
 	}
 })
+
+// Display and hide input field
+$('.fa-plus-circle').click(function(){
+	$("input[type='text']").fadeToggle();
+})
