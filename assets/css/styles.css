@@ -1,5 +1,10 @@
 #container {
 	margin: 0 auto;
 	width: 360px;
-	background-color: pink;
+	border: 2px solid pink;
+}
+
+.liCompleted {
+	text-decoration: line-through;
+	color: gray;
 }
